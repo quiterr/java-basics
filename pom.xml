@@ -12,6 +12,7 @@
         <module>future</module>
         <module>thread</module>
         <module>quartz</module>
+        <module>abstract</module>
     </modules>
 
     <build>
